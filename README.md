@@ -1,1 +1,1 @@
-Simple Python SMTP mail sender 
+Simple Python SMTP & IMAP mail client
